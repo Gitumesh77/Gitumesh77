@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Kambar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Hotel booking cancellation**
+- 🔭 I’m currently working on **Steel inventory project**
 
 - 💬 Ask me about **Python, Excel, SQL, PowerBI**
 
